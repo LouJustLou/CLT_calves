@@ -5,6 +5,8 @@
 This repository contains the code to use Selenium to scrape comments from a YouTube video by Sonne Farms that asks users to guess the weight of a calf born on the video. We'll see if the LLN and CLT hold true in this guessing contest. The YouTube video link below walks though the assumptions and code.
  
  # Credits and Sources
+YouTube Video about how I created the code and the process I went through: https://youtu.be/q57IR217f8o
+
 The code to scrape YouTube comments and write them to a list object comes from:
 Francois St-Amant
 https://towardsdatascience.com/how-to-scrape-youtube-comments-with-python-61ff197115d4
